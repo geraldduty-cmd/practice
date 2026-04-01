@@ -1,6 +1,6 @@
 import React from "react";
 
-export default function Site(Richards.png) {
+export default function Site() {
   return (
     <div className="bg-white text-gray-900 font-serif">
       {/* Header */}
@@ -162,7 +162,7 @@ export default function Site(Richards.png) {
         {/* Logo */}
         <div className="mb-8">
           <img
-            src="/RPA Richards.png"
+            src="/Richards.png"
             alt="Firm Logo"
             className="h-10 opacity-90 object-contain"
           />
