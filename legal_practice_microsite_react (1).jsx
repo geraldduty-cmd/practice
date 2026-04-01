@@ -164,7 +164,7 @@ export default function Site() {
           <img
             src="/Richards.png"
             alt="Firm Logo"
-            className="h-10 opacity-90 object-contain"
+            className="h-16 opacity-90 object-contain"
           />
         </div>
 
