@@ -162,7 +162,7 @@ export default function Site() {
         {/* Logo */}
         <div className="mb-8">
           <img
-            src="/RPA Logo.jpg"
+            src="/RPA Richards.png"
             alt="Firm Logo"
             className="h-10 opacity-90 object-contain"
           />
