@@ -1,6 +1,6 @@
 import React from "react";
 
-export default function Site() {
+export default function Site(Richards.png) {
   return (
     <div className="bg-white text-gray-900 font-serif">
       {/* Header */}
