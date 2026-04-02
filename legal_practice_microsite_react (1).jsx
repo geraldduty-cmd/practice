@@ -32,19 +32,11 @@ export default function Site() {
         <h2 className="text-xl mb-8">Practice Thesis</h2>
         <div className="space-y-6 text-gray-700 leading-relaxed">
           <p>
-            My practice is centered on structuring transactions and governance frameworks
-            that can withstand unstable or non-linear environments.
-          </p>
-          <p>
-            Much of my work takes place in Latin America and the Caribbean, where legal, financial, and
-            political conditions do not always move in predictable or continuous ways. In that
-            context, the central problem is not simply whether a transaction is permissible,
-            but whether it remains operable as conditions evolve.
-          </p>
-          <p>
-            Across engagements, the objective is consistent: to design structures that
-            preserve optionality, maintain control over risk, and allow transactions to
-            function even as the surrounding system shifts.
+           I am interested in finding strategic resilience to structure solid deals and governance structures
+            that withstand the particularly fluid conditions and risks in the present Latin American context.  
+            This means that while my practice is focused on international business transactions and regulatory 
+            matters in Latin America and the US, I seek to maximize the breadth and novelty of matters possible
+            within the context of Latin American investment, deals and governance in the hope.  
           </p>
         </div>
       </section>
@@ -88,27 +80,101 @@ export default function Site() {
       <section id="matters" className="px-12 py-24 border-t border-gray-200 max-w-3xl">
         <h2 className="text-xl mb-10">Representative Matters</h2>
         <ul className="space-y-6 text-gray-700 leading-relaxed">
+          <p>
+              Recent Representative Matters
+          </p>
+          <p>  
+              Cross-Border Investment & Strategic Partnerships
+          </p>
           <li>
-            Advising an international investor in the acquisition of a Caribbean-licensed
-            bank, including regulatory strategy and change-of-control approvals.
+            Advised an international investor in the acquisition of a Caribbean-licensed international 
+            bank and represented the investor in navigating change of control and related regulatory 
+            applications with the banking regulatory authority. 
           </li>
           <li>
-            Working with investors and operators on structuring cross-border joint
-            ventures across Latin America, with emphasis on governance and risk
-            allocation.
+           Advised international investors on structuring investments and joint ventures
+           with operating businesses in Latin America, including governance frameworks,
+           risk allocation, and regulatory compliance.
           </li>
           <li>
-            Advising financial institutions and corporate clients on regulatory exposure,
-            including AML frameworks and sanctions-related strategy.
+           Advised fintech companies in regulatory strategy and licensing applications.
           </li>
           <li>
-            Serving as co-founder and external general counsel to a deep-tech energy
-            company spanning research, manufacturing, and commercialization.
+            Represented entrepreneurs and investors in forming strategic partnerships 
+            with enterprises seeking capital and operational expansion.
           </li>
           <li>
-            Developing regulatory advocacy strategies tied to policy decisions affecting
-            market access and cross-border operations.
+            Advised on cross-border corporate structuring for companies operating 
+            across the United States, the Caribbean, and Latin America.
           </li>
+           <p>  
+              International Regulatory Strategy
+          </p>
+          <li>
+            Advised and delivered executive training to a major Colombia-based
+            international financial institution on corporate governance frameworks
+            and board-level decision-making in cross-border financial operations.
+          </li>
+          <li>
+            Advised corporate clients and financial institutions on regulatory 
+            and policy matters affecting international commercial operations,
+            including anti-money laundering (AML) compliance strategies and 
+            country-specific OFAC sanctions compliance and license applications.
+          </li>
+           <li>
+             Represented institutional interests in engagement with government 
+             and regulatory authorities concerning compliance, licensing, and
+             policy frameworks.
+          </li>
+          <li>
+           Assisted companies in navigating complex legal environments in emerging markets.
+          </li>
+          <p>  
+              Complex Corporate Matters
+          </p>
+          <li>
+          Served as co-founder and external general counsel of a deep-tech energy 
+          source research and development and manufacturing company. 
+          </li>
+          <li>
+          Advised on corporate governance, restructuring, and risk mitigation 
+            strategies for companies operating across multiple jurisdictions.
+          </li>
+          <li>
+          Assisted clients in structuring commercial relationships and contracts
+          designed to support long-term strategic partnerships.
+          </li>
+          <li>
+         Provided counsel on dispute avoidance and resolution in cross-border
+         business relationships.
+          </li>
+          <p>  
+              Government Relations & Public Policy
+          </p>
+          <li>
+         Developed regulatory advocacy strategies for international companies
+         facing government policy decisions affecting operations and market access.
+          </li>
+          <li>
+         Advised multinational corporate stakeholders on political and regulatory
+         risk affecting investments and commercial activity.
+          </li>
+           <li>
+         Assisted financial and corporate clients in understanding the intersection 
+         of policy developments and international commercial strategy.
+          </li>
+           <li>
+         Assisted financial and corporate clients in understanding the intersection 
+         of policy developments and international commercial strategy.
+          </li>
+           <p>  
+              Family-Owned and Legacy Enterprises
+          </p>
+           <li>
+         Advise family-owned businesses on legal and governance structures designed to 
+         support long-term growth and innovation while preserving generational 
+         continuity and ownership alignment.
+          </li>         
         </ul>
       </section>
 
