@@ -179,44 +179,115 @@ export default function Site() {
       </section>
 
       {/* Insights */}
-      <section id="insights" className="px-12 py-24 border-t border-gray-200 max-w-3xl">
-        <h2 className="text-xl mb-10">Insights</h2>
-        <div className="space-y-10 text-gray-700">
-          <div>
-            <h3 className="text-gray-900 mb-1">
-              Sanctions Reversibility in Venezuela
-            </h3>
-            <p className="text-sm text-gray-500 mb-3">
-              Structuring Business in a Non-Linear Regulatory Environment
-            </p>
-            <p>
-              U.S. sanctions policy toward Venezuela does not operate as a linear
-              easing process, but as a system that is partially accessible,
-              conditionally authorized, and structurally reversible. In that
-              system, the central variable is not timing. It is operability.
-            </p>
-          </div>
-        </div>
+      <section id="insights" className="px-12 py-24 border-t border-gray-200 max-w-3xl border-l border-gray-200 pl-6">
+        <h2 className="text-xl mb-10 flex items-center"><span className="w-6 h-px bg-gray-400 mr-3"></span>Insights</h2>
+        <article className="space-y-6 text-gray-600 leading-relaxed">
+          <h3 className="text-gray-800">Sanctions Reversibility in Venezuela</h3>
+          <p className="text-sm text-gray-500">SANCTIONS REVERSIBILITY IN VENEZUELA:
+              STRUCTURING BUSINESS IN VIEW OF A NON-LINEAR REGULATORY ENVIRONMENT
+          </p>
+          <p>For those with interests in Venezuela, recent events in the country created 
+            a glimmer of hope that investment readiness was possible in the foreseeable future.  
+            While this long desired breeze of hope feels good after the unrelentingly long 
+            desert road of depressing prospects the country has faced, hope, of course, for 
+            the investor, should not substitute for understanding and planning for the 
+            still-substantial risk involved in operating in the country.  
+          </p>
+          <p>Sanctions risk is but one of the risks to take into account.  But, focusing 
+            in on this one risk for the moment, most conversations about Venezuela right 
+            now start from the same premise, that conditions are shifting and sanctions 
+            are easing.  It assumes Venezuela is moving along a familiar path from “closed” 
+            to “open.” However, US sanctions strategy towards Venezuela is something far more 
+            complex, a system that is partially accessible, conditionally authorized, and 
+            structurally reversible. In that system, the key variable is not timing. It is operability. 
+          </p>
+          <p>Consider how transactions actually behave in this environment. A deal can be fully 
+            compliant at signing and still fail to function. Not because the law changes in a 
+            dramatic way, but because the system around the transaction shifts. A general license 
+            is narrowed or not renewed. A correspondent bank declines to process a payment it would 
+            have accepted six months earlier. A counterparty loses the ability to perform under 
+            evolving compliance constraints. An enforcement pathway that exists in theory cannot 
+            be accessed in practice because the assets are not where the legal rights point.  
+            Operating in this environment is like swimming in a body of water with complex and 
+            dangerous currents and jagged rocks, pulling and pushing you unexpectedly towards danger. 
+            The sudden and unavoidable drag of the rip currents are normal features of a non-linear 
+            regulatory environment.
+          </p>
+          <P>Sanctions relief is being interpreted as a directional signal, more access, 
+            more opportunity, more room to operate. But sanctions in Venezuela do not function as a 
+            one-way easing mechanism. They operate as a policy tool that expands and contracts in 
+            response to conditions, often on timelines that do not align with transaction cycles. 
+            That creates a specific type of risk: not whether a deal is permitted, but whether it
+            remains executable over time.
+          </P>
+          <P>The same applies to institutional factors. Political developments may alter 
+            expectations, but they do not restore enforceability, judicial independence, or 
+            regulatory continuity. Contracts can be drafted, but they do not enforce themselves. 
+            Arbitration can be obtained, but recovery depends on asset location and practical access. 
+            Payment structures can be designed, but they depend on intermediaries whose risk tolerance 
+            is external to the transaction.
+          </P>
+          <P>This is also why the idea of “first-mover advantage” in Venezuela deserves scrutiny. 
+            In environments characterized by institutional fragility and regulatory reversibility, 
+            early entry often carries asymmetric downside. Transactions executed in ambiguous or 
+            transitional phases are the most exposed to later recharacterization, political scrutiny, 
+            or challenges to validity. What appears to be advantage can become embedded exposure.
+          </P>
+          <P>So what differentiates outcomes? In the Venezuela of 2026, it is not optimism, nor 
+          proximity nor speed. The actors who will perform in this environment are those who treat 
+          uncertainty as a design condition rather than a temporary obstacle. They assume that 
+          sanctions parameters may shift mid-transaction. They assume that payment flows may be 
+          disrupted even where activity is lawful. They assume that enforcement may need to occur 
+          outside the jurisdiction entirely. And they structure accordingly.
+          </P>
+          <P>
+          Legal readiness means the ability to structure transactions that can continue, pause, 
+          or unwind without losing control of risk as conditions evolve.
+          </P>
+          <P>From a decision-making perspective, the question is not necessarily whether now  is 
+            the right time to enter, but whether the transaction functions if sanctions tighten again. 
+            Will the payment actually clear through the banking system as currently configured? If 
+            performance breaks down, where, and how, does enforcement realistically occur?
+          </P>
+          <P>If those questions do not have clear answers, timing is beside the point. 
+            In Venezuela, access is constrained by legal, financial, and institutional mechanics 
+            that operate independently of headlines. In that context, the advantage will not 
+            necessarily accrue to those who arrive first. It will accrue to those who are prepared 
+            to operate when the system does what it consistently does, shift.
+          </P>
+        </article>
       </section>
 
       {/* About */}
-      <section id="about" className="px-12 py-24 border-t border-gray-200 max-w-3xl">
-        <h2 className="text-xl mb-8">About</h2>
-        <div className="space-y-5 text-gray-700 leading-relaxed">
+      <section id="about" className="px-12 py-24 border-t border-gray-200 max-w-3xl border-l border-gray-200 pl-6">
+        <h2 className="text-xl mb-8 flex items-center"><span className="w-6 h-px bg-gray-400 mr-3"></span>About</h2>
+        <div className="space-y-5 text-gray-600 leading-relaxed">
           <p>
-            Gerald Duty is an international corporate attorney advising investors,
-            founders, and institutions engaged in cross-border business across the
-            Americas and Europe.
+            Gerald Duty is an international corporate attorney advising 
+            investors, entrepreneurs, and institutions engaged in cross-border
+            business in the Americas and Europe.
           </p>
           <p>
-            His practice focuses on structuring international partnerships,
-            investment platforms, and governance frameworks in environments shaped
-            by regulatory complexity and institutional variability.
+            Based in Miami, his practice focuses on the legal and strategic 
+            dimensions of international partnerships, investment structures, 
+            and regulatory environments affecting companies operating across 
+            multiple jurisdictions. He has advised financial institutions, 
+            investors, and operating businesses navigating complex legal 
+            frameworks while pursuing expansion and collaboration across borders.
           </p>
           <p>
-            His work often involves situations where legal structure must align
-            with practical execution under evolving conditions, including emerging
-            markets, regulated sectors, and non-standard transactions.
+            Much of his work involves helping entrepreneurs and established 
+            enterprises structure partnerships that allow businesses to grow 
+            internationally while maintaining the distinctive character that 
+            made them successful. His experience spans matters involving corporate 
+            governance, regulatory strategy, cross-border commercial relationships, 
+            and the legal architecture of long-term business ventures.
+          </p>
+          <p>
+            Gerald’s practice reflects a longstanding interest in how traditional 
+            enterprises—from family-owned companies to regionally rooted businesses—adapt 
+            to modern economic realities while preserving the culture and institutional 
+            knowledge that sustain them across generations.
           </p>
         </div>
       </section>
@@ -233,14 +304,17 @@ export default function Site() {
             className="h-16 opacity-90 object-contain"
           />
         </div>
-
-        <p className="text-gray-700 mb-4">
-          For inquiries regarding potential engagements, please reach out directly.
-        </p>
+       <p className="text-gray-600 mb-4">Ways to Connect:</p>
 
         <div className="space-y-1 text-gray-900">
-          <p>gduty@richards-law.com</p>
-          <p className="text-gray-500 text-sm">gerald@geraldduty.com</p>
+          <p>Gerald Duty</p>
+          <p>Richards & Partners, P.A.</p>
+          <p>2665 South Bayshore Drive, Suite 703</p>
+          <p>Miami, Florida 33133 USA</p>
+          <p className="mt-4">gduty@richards-law.com</p>
+          <p className="mt-4">gerald@geraldduty.com</p>
+          <p className="mt-4">Telephone: 305-858-9900</p>
+          <p className="mt-4">LinkedIn: www.linkedin.com/in/gduty</p>
         </div>
       </section>
 
